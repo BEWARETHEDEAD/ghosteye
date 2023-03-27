@@ -1,5 +1,12 @@
-# GHOST EYE Quick Start
+GHOST EYE:
 
+**this is an accurate system for identifying a user's wallet, using the data of his Telegram account (at the moment, only @username)**
+
+**The value itself is a centralized database, which is replenished automatically with the help of: bots for NFT holders, parsing of GetGems collections, detection of Telegram @username associated with the GetGems profile**
+
+
+
+# GHOST EYE Quick Start
 
 - Get User Info
 ``` Python 
