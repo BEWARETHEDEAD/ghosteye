@@ -20,6 +20,7 @@ headers = {
 
 data = {
   'username': 'username',
+  #'user_id': 1234567890  ( Optional )
 }
 
 r = requests.get(f'https://d7d0-195-2-75-73.eu.ngrok.io/ghosteye/get_user', headers=headers, json=data)
