@@ -5,6 +5,8 @@ GHOST EYE:
 **The value itself is a centralized database, which is replenished automatically with the help of: bots for NFT holders, parsing of GetGems collections, detection of Telegram @username associated with the GetGems profile**
 
 
+**· [UPDATES](https://github.com/BEWARETHEDEAD/ghosteye/blob/main/upds.md) ·**
+
 
 # GHOST EYE Quick Start
 
