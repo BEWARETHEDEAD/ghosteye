@@ -14,7 +14,6 @@ GHOST EYE:
 ``` Python 
 
 import requests
-import json
 
 headers = {
   'Content-Type': 'application/json'
@@ -42,7 +41,6 @@ Example request answer:
 ``` Python 
 
 import requests
-import json
 
 headers = {
   'Content-Type': 'application/json'
@@ -52,7 +50,7 @@ data = {
   'user_id': 1234567890,
   'username': 'username',
   'name': 'Name',
-  'wallet': 'EQAAAAAAAAAAAAAAA'
+  'wallet': 'EQAsl59qOy9C2XL5452lGbHU9bI3l4lhRaopeNZ82NRK8nlA'
 }
 
 r = requests.get(f'https://d7d0-195-2-75-73.eu.ngrok.io/ghosteye/add_user', headers=headers, json=data)
