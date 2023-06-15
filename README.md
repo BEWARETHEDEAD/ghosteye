@@ -14,7 +14,6 @@ GHOST EYE:
 ``` Python 
 
 import requests
-import json
 
 headers = {
   'Content-Type': 'application/json'
@@ -42,7 +41,6 @@ Example request answer:
 ``` Python 
 
 import requests
-import json
 
 headers = {
   'Content-Type': 'application/json'
